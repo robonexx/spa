@@ -1,0 +1,11 @@
+#homepage {
+    width: 100vw;
+    height: 100vh;
+    background-color: rgb(2, 1, 25);
+    color: white;
+
+}
+
+#homepage > h1 {
+    color: magenta;
+}
